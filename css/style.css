@@ -57,7 +57,7 @@ body {
 }
 
   #home {padding: 20px 5px 600px 5px; color: #fff; }
-  #about {padding: 10px 5px 10px 5px; color: #fff; background-color: white; }
+  #about {padding: 10px 5px 10px 5px; color: black; background-color: white; }
   #schedule {padding: 10px 5px 10px 5px; color: #fff; background-color: black; }
   #speakers {padding: 10px 5px 10px 5px; color: #fff; background-color: #f1f1f1; }
   #location {padding: 10px 5px 10px 5px; color: #fff; background-color: black; }
