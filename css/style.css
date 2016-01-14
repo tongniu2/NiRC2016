@@ -56,10 +56,10 @@ body {
   }
 }
 
-  #home {padding: 20px 5px 600px 5px; color: #fff; }
-  #about {padding: 10px 5px 10px 5px; color: black; background-color: white; }
-  #schedule {padding: 10px 5px 10px 5px; color: #fff; background-color: black; }
-  #speakers {padding: 10px 5px 10px 5px; color: #fff; background-color: #f1f1f1; }
-  #location {padding: 10px 5px 10px 5px; color: #fff; background-color: black; }
-  #contact {padding: 10px 5px 10px 5px; color: #fff; background-color: #6d001d; }
+  #home {padding: 20px 5px 600px 5px; color: #fff; width:100%;}
+  #about {padding: 10px 5px 10px 5px; color: black; background-color: white; width:100%;}
+  #schedule {padding: 10px 5px 10px 5px; color: #fff; background-color: black; width:100%;}
+  #speakers {padding: 10px 5px 10px 5px; color: #fff; background-color: #f1f1f1; width:100%;}
+  #location {padding: 10px 5px 10px 5px; color: #fff; background-color: black; width:100%;}
+  #contact {padding: 10px 5px 10px 5px; color: #fff; background-color: #6d001d; width:100%;}
 
