@@ -51,7 +51,7 @@ a:hover {
 html,
 body {
   background: url("bg.jpg") no-repeat center center fixed;
-  background-size: 100% 110%;
+  background-size: 100% 100%;
   overflow: hidden;
   color: #fff;
   text-align: center;
@@ -100,7 +100,7 @@ body {
 .cover-headings1 {
     padding:30px;
     position: fixed;
-    top:25%;
+    top:20%;
     bottom: 0;
     left: 0;
     right: 0;
