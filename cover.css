@@ -50,7 +50,7 @@ a:hover {
 
 html,
 body {
-  background: url("bg.png") no-repeat center center fixed;
+  background: url("bg.jpg") no-repeat center center fixed;
   background-size: 100% 110%;
   overflow: hidden;
   color: #fff;
